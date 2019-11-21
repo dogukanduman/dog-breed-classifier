@@ -1,3 +1,9 @@
+Report is [here](./dog_app.ipynb). If you can not view the report, you can download project and check the **dog_app.html** with a browser.
+
+
+
+
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
